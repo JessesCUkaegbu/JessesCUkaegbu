@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jesses C. Ukaegbu</h1>
-<h3 align="center">A passionate Software developer from Liberia</h3>
+<h3 align="center">A passionate Software Developer from Liberia</h3>
 
-- 🔭 I’m currently working on **ToDoList app**
+- 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Django, ALX**
+- 🌱 I’m currently learning **Django, and Python**
 
-- 👯 I’m looking to collaborate on **ALX shell project**
+- 👯 I’m looking to collaborate on **Any backend project**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Django, C, Python**
 
 - 📫 How to reach me **ukaegbujesses@gmail.com**
 
-- ⚡ Fun fact **I love Jesus and coding make see the beauty of his creative idea in me.**
+- ⚡ Fun fact **I love Jesus and coding, it make me see the beauty of God creative idea in me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
