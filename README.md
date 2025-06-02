@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ukaegbujesses@gmail.com**
 
-- ⚡ Fun fact **I love Jesus and coding, it make me see the beauty of God creative idea in me.**
+- ⚡ Fun fact **I love Jesus and coding, it makes me see the beauty of God's creative ideas in me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
